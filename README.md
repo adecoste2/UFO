@@ -36,4 +36,4 @@ The end user can filter by all the search filters.
 ## Summary:
 One of the main drawbacks of this online table is that it requires a data.js file with data. This can make the data stagnant. It would be my suggestion to implement web scraping so that the data being pulled into the table is current. 
 
-
+Another limitation of the the online table is that the search criteria must match the case of the table. Therefore, if the end user capitalizes their search (i.e. 'Bonita' instead of what is listed in the table 'bonita') results will not be populated. It is my suggestion to add code to compensate for this for end user ease of use. 
